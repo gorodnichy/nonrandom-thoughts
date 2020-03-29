@@ -2,21 +2,34 @@
 
 
 
-- ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being) ] ()
+- ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being) ] (https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/)
 
 - Making use of Public Service Employee Survey (PSES) to improve Public Service culture: Data Science way
   - Four recommendations to improve CBSA's PSES ranking
 
-- How to improve the service at the border using historical data and Artificial Intelligence: theory, simulation and practical tool 
+- The beauty and power of diversity and multiculturalism 
+  - Parallels between unilungual Russian and US and bilungual Ukraine and Canada.
+
+- Why Space needs Canada, and Canadians too. 
+  - Another outcome of space program - an Intelligent Vision Interface tool to help paralyzed people: Nouse (nose as mouse) techchnology: www.nouse.ca
+
+- How to improve the service at the border using historical data and Artificial Intelligence: 
+  - theory, simulation and practical tool 
+
+
 
 - Testing and deploying Biometrics:  good, bad and ugly
-  - 
+  - The hype and challenge of Face recognition technology
+  - What happens when chemists test biometric technology
 
-- Doing Data Science 
+- Doing Data Science: computing science approach vs. statistics approach
 
 - What #datascience and #AI can do to help dealing with #covid19
 
-- From Natural birth to Natural Life: 
+- Artificial Intelligence vs. Natural Ignorance: 
+  -  What can happen to orgnization run When decision are made
+
+- From Natural birth to Natural Life 
   - Steiner - Waldorf education (antroposophy) 
 
 - Natural death?
