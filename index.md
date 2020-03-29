@@ -4,7 +4,7 @@
 
 - ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being)](https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/)
 
-- Making use of Public Service Employee Survey (PSES) to improve Public Service culture: Data Science way
+- [Making use of Public Service Employee Survey (PSES) to improve Public Service culture: Data Science way](https://www.linkedin.com/pulse/analyzing-improving-public-service-performance-using-data-gorodnichy/)
   - Four recommendations to improve CBSA's PSES ranking
 
 - The beauty and power of diversity and multiculturalism 
@@ -13,8 +13,8 @@
 - Why Space needs Canada, and Canadians too. 
   - Another outcome of space program - an Intelligent Vision Interface tool to help paralyzed people: Nouse (nose as mouse) techchnology: www.nouse.ca
 
-- How to improve the service at the border using historical data and Artificial Intelligence: 
-  - theory, simulation and practical tool 
+- [How to improve the service at the border using historical data and Artificial Intelligence ](https://www.linkedin.com/pulse/predicting-optimizing-border-wait-time-using-dmitry-gorodnichy/) 
+  - Simple yet useful - Real-time and predicted Border Wait Times: https://itrack.shinyapps.io/border
 
 - Testing and deploying Biometrics:  good, bad and ugly
   - The hype and challenge of Face recognition technology
