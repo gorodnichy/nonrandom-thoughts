@@ -1,8 +1,8 @@
-# nonrandom-thoughts
+
+![Image](src)
 
 
-
-- ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being) ] (https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/)
+- ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being)](https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/)
 
 - Making use of Public Service Employee Survey (PSES) to improve Public Service culture: Data Science way
   - Four recommendations to improve CBSA's PSES ranking
@@ -15,8 +15,6 @@
 
 - How to improve the service at the border using historical data and Artificial Intelligence: 
   - theory, simulation and practical tool 
-
-
 
 - Testing and deploying Biometrics:  good, bad and ugly
   - The hype and challenge of Face recognition technology
@@ -44,7 +42,6 @@
 
 
 
-![Image](src)
 
 
 
