@@ -1,6 +1,4 @@
-New ideas and sources - welcome! 
 
-![Cover page from children's magazine](src)
 
 
 - ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being)](https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/)
@@ -13,11 +11,12 @@ New ideas and sources - welcome!
 
 - Artificial Intelligence or Natural Ignorance? Some examples of both
   <!-- -  What can happen to orgnization run When decision are made -->
-- What #datascience and #AI can do to help dealing with #covid19
+- What #datascience and #AI can do to help dealing with #covid19 - coming 
 
 
 <!-- - How to make electoral reform happen - to make Canada more democratic -->
-- Data simulation: what will happen to Liberal party and Canada, if they don't change first pass the post electoral system and what will happen to them if they introduce ranking voting
+- Data simulation: what will happen to Liberal party and Canada, if they don't change first pass the post electoral system - coming
+  - What we can do to make it happen
 <!--   - The problem with proportional representation-->
 
   <!-- 
@@ -32,23 +31,31 @@ New ideas and sources - welcome!
 - Why Space needs Canada, and Canadians too: 
   - Another outcome of a space program - an Intelligent Vision Interface tool to help paralyzed people: www.nouse.ca
   
-- From Natural birth to Natural Life 
-  - Antroposophy (Waldorf education) from Rudolf Steiner vs. "How do you measure your life?" from  Executives of Harward School of Business
-  
-- Natural death?
+- From Natural Birth to Natural Life: 
+  - Antroposophy (Waldorf education) from Rudolf Steiner vs. "How do you measure your life" from  Executives of Harward School of Business
+- Natural death ?
   - Buddhist's experience: Tibetan book of living and dying
-  - Two Lives book: How to bring it to other languages
-  - Personal story: "Shri Jobim" and "Behind the horizon"
+  - ["Two Lives"](https://bookdown.org/gorodnichy/twolives-book) book: How to bring it to English audience - 
+  - Personal feelings: ["Shri Jobim"](https://bookdown.org/gorodnichy/jobim/) and "Behind the horizon"
 
+<!-- 
+- The magic of falling a sleep
 - On the magic of composing an original melody   
-  <!-- - Why no longer I have not come up with a single original melody -->
-
+  - Why not a single original melody came to me lately -->
+<!--  
 - The beauty and power of diversity and multiculturalism 
   - Parallels:  Russian - Ukraine and US - Canada.
 - How to better understand Zelenskly and what is happening now in Ukraine
-<!--  - Why the war between Russia and Ukraine -->
-- Ukrainian contemporaty music is it a real phenomenon?
-- How to bring the beauty and powers of other language works of literacture and music?
+- Why the war between Russia and Ukraine -->
+<!--
+- Your link to Ukrainian contemporaty music  one of the most melodic and harmonic in the world
+ - How to bring the beauty and powers of other language works of literacture and music? ->
+ 
 
+![Cover page from children's science magazine featuring the work of Dmitry Gorodnichy](yes-mag-nouse-cover.jpg)
+
+
+Feedback and thoughts - welcome! 
+Send them to [my name]@[my surname].ca
 
 Back to www.gorodnichy.ca
