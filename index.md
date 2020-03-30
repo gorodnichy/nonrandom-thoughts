@@ -1,7 +1,7 @@
+Unsorted:
 
 
-
-- ["Comme c'est beau!" (contribution to the Agency's bulletin on well-being)](https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/)
+- ["Comme c'est beau!" ](https://www.linkedin.com/pulse/contribution-agencys-well-being-dmitry-gorodnichy%2F/) - contribution to the Agency's bulletin on well-being
 - [Making use of Public Service Employee Survey (PSES) to improve Public Service culture: Data Science way](https://www.linkedin.com/pulse/analyzing-improving-public-service-performance-using-data-gorodnichy/)
   - WebApp Examples: https://itrack.shinyapps.io/PSES and https://itrack.shinyapps.io/PSES-CBSA-SE
   - Four recommendations to improve CBSA's lPSES ranking 
@@ -34,9 +34,9 @@
 - From Natural Birth to Natural Life: 
   - Antroposophy (Waldorf education) from Rudolf Steiner vs. "How do you measure your life" from  Executives of Harward School of Business
 - Natural death ?
-  - Buddhist's experience: Tibetan book of living and dying
+  - Buddhist's experience: "Tibetan book of living and dying"
   - ["Two Lives"](https://bookdown.org/gorodnichy/twolives-book) book: How to bring it to English audience - 
-  - Personal feelings: ["Shri Jobim"](https://bookdown.org/gorodnichy/jobim/) and "Behind the horizon"
+<!--  - Personal feelings expressed in music: ["Shri Jobim"](https://bookdown.org/gorodnichy/jobim/) and ["Behind the horizon"](https://soundcloud.com/dmitry-gorodnichy/sets/adieu) -->
 
 <!-- 
 - The magic of falling a sleep
