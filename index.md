@@ -9,14 +9,14 @@
   - WebApp Example: https://itrack.shinyapps.io/border  
  
 
-- Artificial Intelligence or Natural Ignorance? Some examples of both
-  <!-- -  What can happen to orgnization run When decision are made -->
+<!-- - Artificial Intelligence or Natural Ignorance? Some examples of both
+   -  What can happen to orgnization run When decision are made -->
 - What #datascience and #AI can do to help dealing with #covid19 - coming 
 
 
 <!-- - How to make electoral reform happen - to make Canada more democratic -->
 - Data simulation: what will happen to Liberal party and Canada, if they don't change first pass the post electoral system - coming
-  - What we can do to make it happen
+  - What you can do to make it happen
 <!--   - The problem with proportional representation-->
 
   <!-- 
