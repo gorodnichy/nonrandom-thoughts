@@ -13,14 +13,14 @@
 - [How to reduce Wait Time at the border at the border using historical data and Artificial Intelligence (#AI)](https://www.linkedin.com/pulse/predicting-optimizing-border-wait-time-using-dmitry-gorodnichy/) 
   - WebApp Example: https://itrack.shinyapps.io/border  
 <!-- - Artificial Intelligence or Natural Ignorance? Some examples of both
-   -  What can happen to orgnization run When decision are made -->
+-  What can happen to orgnization run When decision are made -->
 - What #datascience and #AI can do to help dealing with #covid19 - coming 
 <!-- - How to make electoral reform happen - to make Canada more democratic -->
 - Data simulation: what will happen to Liberal party and Canada, if they don't change first pass the post electoral system - coming
  <!--  - What you can do to make it happen -->
 <!--   - The problem with proportional representation-->
 <!-- - Testing and deploying Biometrics:  good, bad and ugly
- -  What happens when chemists test biometric technology 
+-  What happens when chemists test biometric technology 
 - The hype and challenge of Face ecognition technology -->
   - [What one needs to know about variation of face recognition performance between demographics](https://www.linkedin.com/pulse/what-one-needs-know-variation-face-recognition-system-gorodnichy/)
 <!-- - Doing Data Science: Computing Science way -->
@@ -44,7 +44,7 @@
 - Why the war between Russia and Ukraine -->
 <!--
 - Your link to Ukrainian contemporaty music  one of the most melodic and harmonic in the world
- - How to bring the beauty and powers of other language works of literacture and music? ->
+ - How to bring the beauty and powers of other language works of literacture and music? -->
  
 
 Feedback and thoughts - welcome!  
