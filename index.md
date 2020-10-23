@@ -3,8 +3,8 @@
 ![Cover page from Canada's Science Magazine For Kids featuring the work of Dmitry Gorodnichy](yes-mag-nouse-cover.jpg)
 
 
-- 2020 Apr: [What #datascience and #AI can do to help with #covid19](https://github.com/gorodnichy/iTrack-covid) 
-  - Covid 19 vs. Chernobyl 1996 - I was there
+- [What #datascience and #AI can do to help with #covid19](https://github.com/gorodnichy/iTrack-covid)
+  - Covid 2019 vs. Chernobyl 1996 ?
 - 2020 Jan: How to make to make Canada more democratic, and ... the planet healthier
   - Planned: What will happen to Liberal party and Canada, if they don't change first pass the post electoral system: Data simulation
 - 2020 Feb: The hype and challenge of Face Recognition technology 
